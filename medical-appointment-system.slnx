@@ -1,6 +1,6 @@
 <Solution>
-  <Project Path="AccesoDatos/AccesoDatos.csproj" Id="6c6f6560-dc73-406b-8aca-e3d0ec48a6d1" />
-  <Project Path="Entidades/Entidades.csproj" Id="f1a248e1-1f7a-4a1e-97ef-a93dcebe3284" />
-  <Project Path="LogicaNegocio/LogicaNegocio.csproj" Id="09948993-5692-4c26-84c6-b7f88e1f6393" />
-  <Project Path="PresentacionUI/PresentacionUI.csproj" Id="bb37c2f0-5f28-4cb0-96f2-12fa2a704185" />
+  <Project Path="AccesoDatos/AccesoDatos.csproj" />
+  <Project Path="Entidades/Entidades.csproj" />
+  <Project Path="LogicaNegocio/LogicaNegocio.csproj" />
+  <Project Path="PresentacionUI/PresentacionUI.csproj" />
 </Solution>
