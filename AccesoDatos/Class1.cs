@@ -8,6 +8,5 @@ namespace AccesoDatos
 {
     public class Class1
     {
-        //Esto es solo un ejemplo ignoralo
     }
 }
